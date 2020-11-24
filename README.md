@@ -1,2 +1,2 @@
-# DartCounterUI-IOS
-Here are all files for the UI of the IOS version of DartCounter
+# DartCounterDesign
+Design work for DartCounter Web, IOS, Android
